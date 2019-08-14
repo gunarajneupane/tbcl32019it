@@ -1,0 +1,36 @@
+
+nav{
+    word-spacing: 300px;
+    font-size: 3ch;
+    background-color: gray;
+    padding: 5px;
+    align-content: center;
+  
+  }
+  
+  h1{
+    margin-left: 75px;
+  }
+  h2{
+    text-align: center;
+  }
+  h3{
+    margin-left: 75px;
+  }
+  img{
+    margin-left: 75px;
+  
+  }
+  p{
+    text-align: center;
+  }
+  table{
+    margin-left: 75px;
+    align-content: center;
+  }
+  table td 
+  {
+    background-color: crimson;
+  }
+  
+  
